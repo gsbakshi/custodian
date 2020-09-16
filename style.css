@@ -49,34 +49,20 @@ body, html {
 .base-item {
     height: 100%;
     display: flex;
-    justify-content: center;
-    object-fit: fill;
 }
 
 .set {
     height: 100%;
-    justify-content: center;
-    background-position: center;
-    object-fit: contain;
-    align-items: stretch;
-    align-content: stretch;
+    text-align: center;
 }
 
 .image {
   height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 /* .image {
-  
   background-image: url("m.jpg");
-
-
   height: 100%; 
-
-
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
