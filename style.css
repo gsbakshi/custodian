@@ -60,6 +60,13 @@ body, html {
   height: 100%;
 }
 
+.req {
+  /* background-image: url("m.jpg"); */
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 /* .image {
   background-image: url("m.jpg");
   height: 100%; 
