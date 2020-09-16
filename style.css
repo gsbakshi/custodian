@@ -53,6 +53,15 @@ body, html {
     object-fit: fill;
 }
 
+.set {
+    height: 100%;
+    justify-content: center;
+    background-position: center;
+    object-fit: contain;
+    align-items: stretch;
+    align-content: stretch;
+}
+
 .image {
   height: 100%;
   background-position: center;
